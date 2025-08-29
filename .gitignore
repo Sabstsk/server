@@ -11,6 +11,10 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# Firebase service account keys (sensitive)
+keys/
+*.json
+
 # Runtime data
 pids
 *.pid
