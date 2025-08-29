@@ -1,0 +1,12 @@
+{
+    "firebaseProjects": [
+        {
+            "id": "cust4-523c2",
+            "keyPath": "./keys/cust4-523c2-firebase-adminsdk-fbsvc-ad7ec0c4fc.json"
+        },
+        {
+            "id": "cust3-9edaf",
+            "keyPath": "./keys/cust3-9edaf-firebase-adminsdk-fbsvc-b9057d7754.json"
+        }
+    ]
+}
